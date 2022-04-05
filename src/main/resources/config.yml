@@ -1,0 +1,8 @@
+checkInterval: 10
+worlds:
+  world:
+    others: 0
+    pvp: 62.5
+    spawn: 50
+  world2:
+    spawn1: 2

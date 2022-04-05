@@ -1,0 +1,6 @@
+name: HopBackFall
+version: "1.0-WG17"
+author: gyurix
+api-version: "1.13"
+depend: [SpigotLib,WorldGuard,WorldEdit]
+main: gyurix.hopbackfall.Main

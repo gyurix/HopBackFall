@@ -1,0 +1,27 @@
+# Maven
+target/
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# OS
+.DS_Store
+*.swp
